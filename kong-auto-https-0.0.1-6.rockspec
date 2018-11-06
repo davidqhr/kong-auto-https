@@ -1,9 +1,9 @@
 package = "kong-auto-https"
-version = "0.0.1-5"
+version = "0.0.1-6"
 supported_platforms = {"linux", "macosx"}
 
 source = {
-    url = "https://github.com/davidqhr/kong-auto-https",
+    url = "git://github.com/davidqhr/kong-auto-https",
     branch = "master"
 }
 
